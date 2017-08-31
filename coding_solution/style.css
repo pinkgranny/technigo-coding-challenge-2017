@@ -1,0 +1,21 @@
+
+h1 {
+  color: #ff4dc4; font: Arial; font-size: 15
+}
+
+
+
+form {
+  display: inline-block;
+  position: center;
+}
+
+form input {
+  padding-right: 4.6em;
+  value: color: #ff4dc4; font: Arial; font-size: 10}
+
+
+form button {
+
+  height: 36px
+}
